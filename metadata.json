@@ -1,0 +1,8 @@
+{
+  "name": "方楠 AI 爆款助手",
+  "description": "顶级爆款文案、数字分身及视觉写真全能智能体。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
